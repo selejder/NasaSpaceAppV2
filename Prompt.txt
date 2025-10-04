@@ -1,0 +1,29 @@
+**Prompt:**
+
+A UI/UX design for a futuristic weather and route planning application, "Will It Rain On My Parade?", for a NASA-themed project. The design should be a high-fidelity mockup, presented as a screen capture on a computer monitor.
+
+**Main Layout & Panel:**
+The screen is dominated by a background map view. Floating on the left side of the screen is the primary user interface panel, which occupies 25% of the total screen width. This panel appears to float on top of the map, with a visible 5-pixel margin on the top, bottom, and left edges, allowing the map to be seen through the gap. The panel has highly rounded, soft corners.
+
+**Aesthetics & Theme:**
+The panel features a sleek, dark mode theme with a solid black background. The background of the panel itself is a stunning, high-resolution view of deep space, featuring a beautifully detailed rendering of the planet Saturn and a few large, bright, and distinct stars. The typography is modern, clean, and highly legible with a slightly futuristic feel. Interactive elements have a subtle neon blue glow effect.
+
+**Interface Components (Before Output):**
+1.  **Header:** At the top-right corner of the panel, there is a small, minimalist icon (e.g., two opposing arrows) for the user to switch the panel's position from the left to the right side of the screen.
+2.  **Route Input:** Two clean input fields labeled "Başlangıç Noktası" and "Varış Noktası".
+3.  **Date Selection:** A compact and intuitive calendar interface for selecting the Year, Month, and Day.
+4.  **Customizable Data:** A section with toggle switches for the following options: "Nem Oranı", "Yağış Olasılığı", "Rüzgar Hızı", and "Yol Koşulları". Each option is paired with a simple, recognizable line-art icon (a water droplet, a cloud with rain, a wind icon, and a road icon respectively).
+5.  **Action Button:** A prominent button at the bottom labeled "Güzergah Oluştur".
+
+**Interface Components (After Output):**
+This view shows the state *after* the "Güzergah Oluştur" button has been pressed. The lower half of the panel is now populated with a scrollable list of data cards. Each card represents a different segment of the journey.
+
+**Output Card Design:**
+Each card is visually distinct and contains the following information for its specific route segment:
+1.  **Mandatory Data:**
+    *   **Weather Condition:** A large space on the card dedicated to a future weather animation (e.g., animated rain, shining sun). For this static design, it shows a large, clear icon (a sun, a cloud, a raincloud).
+    *   **Temperature:** Clearly displayed (e.g., "14°C"). Next to the temperature value, there is a small settings icon or a toggle to switch between Celsius, Fahrenheit, and Kelvin.
+2.  **User-Selected Data:** The user's chosen metrics (Nem, Yağış Olasılığı, etc.) are displayed below the mandatory data, each with its own small icon and value.
+
+**Keywords:**
+UI, UX, GUI, Behance, Dribbble, dark mode, futuristic, sci-fi, NASA, space theme, data visualization, weather app, map interface, floating panel, rounded corners, high contrast, clean design, data cards, user interface design, Figma mockup.

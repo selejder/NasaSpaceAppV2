@@ -1,0 +1,2 @@
+Nasa'nın düzenlediği NasaSpaceApp etkinliğine katıldım. Bu etkinliğe "Will It Rain On My Parade?" adlı bir kategori seçtik. Ekibimle katıldığım bu projede ben ara yüz tasarlama görevini aldım. İstediğim özellikleri properties dosyasında bulabilirsin.
+Bu dizin üzerinde bulunan "weather-route-app" ve "weather-route-app v2" dosyaları ara yüz uygulamasının iki farklı çıktısıdır. "weather-route-app" ana çıktı, "weather-route-app v2" çıktısı da ana çıktının üzerinde düzeltmeler yapılmış son halidir.
